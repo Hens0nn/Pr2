@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: inter;
+}
+
+h3 {
+    font-weight: 800;
+}
+
+.section {
+    margin: 10px;
+}
+
+@font-face {
+    font-family: inter;
+    src: url(../fonts/InterTight-VariableFont_wght.ttf);
+}
+span{
+    display: flex;
+    font-display: row;
+    align-items: center;
+    gap: 5px;
+}
